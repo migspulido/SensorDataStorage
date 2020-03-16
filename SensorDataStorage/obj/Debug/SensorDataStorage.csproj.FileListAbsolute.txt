@@ -1,0 +1,8 @@
+C:\Users\migs\Documents\Visual Studio 2008\Projects\SensorDataStorage\SensorDataStorage\bin\Debug\SensorDataStorage.exe
+C:\Users\migs\Documents\Visual Studio 2008\Projects\SensorDataStorage\SensorDataStorage\bin\Debug\SensorDataStorage.pdb
+C:\Users\migs\Documents\Visual Studio 2008\Projects\SensorDataStorage\SensorDataStorage\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\migs\Documents\Visual Studio 2008\Projects\SensorDataStorage\SensorDataStorage\obj\Debug\SensorDataStorage.Form1.resources
+C:\Users\migs\Documents\Visual Studio 2008\Projects\SensorDataStorage\SensorDataStorage\obj\Debug\SensorDataStorage.Properties.Resources.resources
+C:\Users\migs\Documents\Visual Studio 2008\Projects\SensorDataStorage\SensorDataStorage\obj\Debug\SensorDataStorage.csproj.GenerateResource.Cache
+C:\Users\migs\Documents\Visual Studio 2008\Projects\SensorDataStorage\SensorDataStorage\obj\Debug\SensorDataStorage.exe
+C:\Users\migs\Documents\Visual Studio 2008\Projects\SensorDataStorage\SensorDataStorage\obj\Debug\SensorDataStorage.pdb
